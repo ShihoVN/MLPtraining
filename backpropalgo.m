@@ -1,6 +1,7 @@
 %IS53002A: Neural Networks Coursework Assignment part.2 
 %MLP training using the incremental backpropagation algorithm
 %Shiho Numakura 
+%December 8, 2019
 %Prototype uses the following global variables for input and/or output:
 %   Inputs - input patterns 
 %   Target - desired output patterns 
